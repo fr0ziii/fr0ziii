@@ -4,17 +4,13 @@
 - 👀 I’m interested in
 	-  
 	- Learn new skills that take me to higher responsabilities position in the field of software and technologies
-- 🌱 I’m currently..
+- 🌱 My skills
 	-  
-	- Learning Angular, Typescript, Python, ReactJS, Django
+	- Learning Angular, Typescript, Python, ReactJS, Django, Flask
 	- Mastering Java, Javascript, Scala, Play Framework, Odoo
+	- PostgreSQL, MongoDB, MariaDB, GraphQL, Firebase
+	- SCRUM, Kanban metholodogies
 
 - 📫 How to reach me
 	-  
 	-  You can contact me vía LinkedIn.
-
-
-<!---
-fr0ziii/fr0ziii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
