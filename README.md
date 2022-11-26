@@ -5,12 +5,15 @@
 	-  
 	- Learn new skills that take me to higher responsabilities position in the field of software and technologies
 - 🌱 My skills
-	-  
-	- Learning Angular, Typescript, Python, ReactJS, Django, Flask
-	- Mastering Java, Javascript, Scala, Play Framework, Odoo
+	- 
+	
+	- Java, Scala, Javascript/Typescript, Python, PHP, HTML/CSS 
+	- Angular, React, Play Framework, Laravel, Django, Symphony, Ionic, Spring
+	- Odoo
 	- PostgreSQL, MongoDB, MariaDB, GraphQL, Firebase
 	- SCRUM, Kanban metholodogies
+	- I'm learning and reading about Next.JS
 
 - 📫 How to reach me
 	-  
-	-  You can contact me vía LinkedIn.
+	-  You can contact me vía LinkedIn
