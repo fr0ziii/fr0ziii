@@ -11,9 +11,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=fr0ziii&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fr0ziii&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fr0ziii&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=fr0ziii&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=fr0ziii&icon=3&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
