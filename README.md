@@ -2,7 +2,7 @@
 i am from **las palmas de gran canaria, spain.**  
 i learn new things every day about **tech, ai, blockchain, economy, business.**  
 looking for **people who whants to build ideas.**  
-instered in **e/acc.**
+**e/acc.**
 
 ### `` tech stack``
 **languages:**  python, ts, js, java, scala, php  
