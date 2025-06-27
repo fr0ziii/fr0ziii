@@ -11,7 +11,6 @@ looking for **people who whants to build ideas.**
 **software tools:**  git, jenkins, terraform, selenium, junit, jira, trello
 
 ### `` stats ``
-![](https://github-readme-stats.vercel.app/api?username=fr0ziii&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fr0ziii&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fr0ziii&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
