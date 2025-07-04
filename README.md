@@ -5,7 +5,7 @@ looking for **people who whants to build ideas.**
 
 ### `` tech stack`` 
 **languages:**  python, ts, js, php\
-**web dev:**  angular, react, nextjs, nodejs, flask, fastapi, laravel  
+**web dev:**  angular, react, nextjs, nodejs, flask, fastapi, laravel, symfony
 **cloud:**  gcp, ec2, lambda, s3, iac, ci/cd, docker  
 **software tools:**  git, jenkins, terraform, selenium, junit, jira, trello
 
