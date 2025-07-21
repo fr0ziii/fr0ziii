@@ -2,6 +2,7 @@
 i am from **las palmas de gran canaria, spain.**  
 i learn new things every day about **tech, ai, web3, blockchain, economy, business.**  
 looking for **people who whants to build ideas.**  
+mastering agentic engineering with **claude code**  
 
 ### `` tech stack`` 
 **languages:**  python, ts, js, php\
