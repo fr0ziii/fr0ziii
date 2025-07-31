@@ -6,5 +6,5 @@ mastering agentic engineering with **claude code**
 
 ### `` stats ``
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fr0ziii&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fr0ziii&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 
