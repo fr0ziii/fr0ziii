@@ -5,6 +5,6 @@ looking for **people who whants to build ideas.**
 mastering agentic engineering with **claude code**  
 
 ### `` stats ``
-![](https://github-readme-streak-stats.herokuapp.com/?user=fr0ziii&theme=dark&hide_border=true)<br/>
+![fr0ziii's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fr0ziii&theme=dark&hide_border=true)<br/>
 
 
