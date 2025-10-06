@@ -2,7 +2,7 @@
 - i'm from **las palmas de gran canaria, spain.**  
 - learning new things every day about **tech, ai, web3, economy, business.**  
 - interested in **agentic** engineering.
-- using agents to **build my dreams.**
+- using agents to **build projects.**
 
 ### `` tech stack``
 - ts/js, python, php, java.
