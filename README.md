@@ -1,12 +1,22 @@
-### `` about me``
-- i'm from **las palmas de gran canaria, spain.**  
-- learning new things every day about **tech, ai, web3, economy, business.**  
-- interested in **agentic** engineering.
-- using agents to **build projects.**
+**about me:**
+- i'm from **las palmas de gran canaria, spain.**
+- swe engineer @ [lynx](https://lynxtech.com/)
+- interested in ai & agents and how to use it effectively to solve business problems.
 
-### `` tech stack``
-- ts/js, python, php, java.
-- nextjs, react, nodejs, bun, angular, flask, fastapi, laravel
-- gcp & aws, docker, kubernetes, terraform, ci/cd. 
+**mostly using:**
+![TS Badge](https://img.shields.io/badge/Typescript-Language-informational?style=flat&logo=typescript&logoColor=fafafa&color=bef264) 
+![Python Badge](https://img.shields.io/badge/Python-Language-informational?style=flat&logo=python&logoColor=fafafa&color=bef264)
+![Claude Code Badge](https://img.shields.io/badge/Claude_Code-555?logo=claude) 
+![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
 
-![fr0ziii's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fr0ziii&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+my dms are open on x/twitter [@fr0ziisc2](https://x.com/fr0ziisc2)
+
+<div>
+    <a
+    href="https://x.com/fr0ziisc2">
+        <img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/davidiglesiasguerra/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</div>
