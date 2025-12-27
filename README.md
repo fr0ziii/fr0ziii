@@ -2,7 +2,7 @@
 
 - i'm from **las palmas de gran canaria, spain.**
 - swe engineer @ [lynx](https://lynxtech.com/)
-- interested in ai & agents and how to use it effectively to solve business problems.
+- mostly learning about ai & agents and how to use it effectively to solve business problems.
 
 **mostly using:**
 
