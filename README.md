@@ -3,12 +3,14 @@
 - i'm from **las palmas de gran canaria, spain.**
 - software engineer @ [lynx](https://lynxtech.com/)
 - mostly working with agents and how to use them effectively to solve business problems.
+- highly interested on agentic engineering.
 
 **mostly using:**
 
 ![TS Badge](https://img.shields.io/badge/Typescript-Language-informational?style=flat&logo=typescript&logoColor=fafafa&color=bef264) 
 ![Python Badge](https://img.shields.io/badge/Python-Language-informational?style=flat&logo=python&logoColor=fafafa&color=bef264)
 ![Claude Code Badge](https://img.shields.io/badge/Claude_Code-555?logo=claude) 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
 
 **get in touch**
 
