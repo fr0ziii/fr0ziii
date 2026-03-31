@@ -20,9 +20,9 @@
 
 **archived projects:**
 
-🧠 **[recall](https://github.com/fr0ziii/recall)** - An schema multimodal semantic search engine with dynamic schema validation, pluggable embedding models (text/image), and async ingestion pipeline. Built with FastAPI, Qdrant, Redis, and sentence-transformers.
+🧠 **[recall](https://github.com/fr0ziii/recall)** - Schema-first multimodal semantic search engine.
 
-🔎 **[obsearch](https://github.com/fr0ziii/obsearch)** - Multimodal semantic search engine for Obsidian vaults, index markdown, images, and PDFs into the same vector space using Gemini Embedding 2 + SQLite-vec.
+🔎 **[obsearch](https://github.com/fr0ziii/obsearch)** - Semantic search for Obsidian vaults with multimodal indexing.
 
 **connect**
 
