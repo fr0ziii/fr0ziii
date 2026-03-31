@@ -16,13 +16,12 @@
 
 **current projects:**
 
-🐱 **[Murmur](https://github.com/fr0ziii/murmur)** - Murmur a thought into your Obsidian vault; text or voice, via Raycast
+- 🐱 **[Murmur](https://github.com/fr0ziii/murmur)** - Murmur a thought into your Obsidian vault; text or voice, via Raycast
 
 **archived projects:**
 
-🧠 **[recall](https://github.com/fr0ziii/recall)** - Schema-first multimodal semantic search engine.
-
-🔎 **[obsearch](https://github.com/fr0ziii/obsearch)** - Semantic search for Obsidian vaults with multimodal indexing.
+- 🧠 **[recall](https://github.com/fr0ziii/recall)** - Schema-first multimodal semantic search engine.
+- 🔎 **[obsearch](https://github.com/fr0ziii/obsearch)** - Semantic search for Obsidian vaults with multimodal indexing.
 
 **connect**
 
