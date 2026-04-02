@@ -2,7 +2,7 @@
 
 - i'm from **las palmas de gran canaria, spain.**
 - software engineer @ [lynx](https://lynxtech.com/)
-- mostly working with agents and how to use them effectively in companies.
+- mostly working with agents and how to build harness around them effectively.
 - working on agentic engineering.
 
 ![TS Badge](https://camo.githubusercontent.com/bea9f7f9bb8bd1460b2341e8ef2f6ad9c89719e22a94f9e7f290d5fae275d7be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3331373843363f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
