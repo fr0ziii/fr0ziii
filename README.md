@@ -20,8 +20,10 @@
 
 **archived projects:**
 
+- 🔥 **[crawlflare](https://github.com/fr0ziii/crawlflare)** - Agent-first CLI for the Cloudflare Browser Rendering API.
 - 🧠 **[recall](https://github.com/fr0ziii/recall)** - Schema-first multimodal semantic search engine.
 - 🔎 **[obsearch](https://github.com/fr0ziii/obsearch)** - Semantic search for Obsidian vaults with multimodal indexing.
+
 
 **connect**
 
