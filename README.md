@@ -16,6 +16,7 @@
 
 **current projects:**
 
+- 🧻 **[memoria](https://github.com/fr0ziii/memoria)** - BM25 search skill for Obsidian vaults. Agent-first, no embeddings.
 - 🐱 **[Murmur](https://github.com/fr0ziii/murmur)** - Murmur a thought into your Obsidian vault; text or voice, via Raycast
 
 **archived projects:**
