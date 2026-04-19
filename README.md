@@ -25,15 +25,3 @@
 - 🧠 **[recall](https://github.com/fr0ziii/recall)** - Schema-first multimodal semantic search engine.
 - 🔎 **[obsearch](https://github.com/fr0ziii/obsearch)** - Semantic search for Obsidian vaults with multimodal indexing.
 
-
-**connect**
-
-<div>
-    <a
-    href="https://x.com/fr0ziisc2">
-        <img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/davidiglesiasguerra/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-</div>
